@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentponnect",
+        "uuid": 6568452,
+        "checksum": "ceaqhr"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
